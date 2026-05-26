@@ -2,12 +2,15 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Curso](https://img.shields.io/badge/Projeto%20Aranouá-40h-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ---
 
 # Sobre o Projeto
+
+Este repositório contém o **projeto final do curso "Fundamentos de programação WEB (40h)"**, realizado no contexto do projeto **Aranouá**.
 
 Este projeto é uma **landing page institucional inspirada na Porsche**, desenvolvida exclusivamente com HTML e CSS.
 
